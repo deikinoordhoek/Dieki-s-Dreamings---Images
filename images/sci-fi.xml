@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+<manifest>
+	<image>
+		<thumbnail>
+			<url>thumbnails/orbit.png</url>
+			<plain_url>plain_thumbnails/orbit.jpg</plain_url>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/Orbit.jpg</jpeg>
+			<webp>fullsize/WebP/orbit.webp</webp>
+
+		</fullsize>
+		<image_title>Orbit</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/royal-sunrise.png</url>
+			<plain_url>plain_thumbnails/royal-sunrise.jpg</plain_url>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/royal-sunrise.jpg</jpeg>
+			<webp>fullsize/WebP/royal-sunrise.webp</webp>
+		</fullsize>
+		<image_title>Royal Sunrise</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/lightspeed.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>146</tlX>
+				<tlY>202</tlY>
+				<brX>904</brX>
+				<brY>331</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/lightspeed.jpg</jpeg>
+			<webp>fullsize/WebP/lightspeed.webp</webp>
+		</fullsize>
+		<image_title>Lightspeed</image_title>
+		<credits></credits>
+	</image>
+
+	<image>
+		<thumbnail>
+			<url>thumbnails/infinity-unbound.png</url>
+			<plain_url>plain_thumbnails/infinity-unbound.jpg</plain_url>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/infinity-unbound.jpg</jpeg>
+			<webp>fullsize/WebP/infinity-unbound.webp</webp>
+		</fullsize>
+		<image_title>Infinity Unbound</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/sheilds-up.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>136</tlX>
+				<tlY>102</tlY>
+				<brX>849</brX>
+				<brY>221</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/shields-up.jpg</jpeg>
+			<webp>fullsize/WebP/shields-up.webp</webp>
+		</fullsize>
+		<image_title>Shields Up!</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/beautiful-serenity.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>175</tlX>
+				<tlY>80</tlY>
+				<brX>1000</brX>
+				<brY>221</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/beautiful-serenity.jpg</jpeg>
+			<webp>fullsize/WebP/beautiful-serenity.webp</webp>
+		</fullsize>
+		<image_title>Beautiful Serenity</image_title>
+		<credits></credits>
+	</image>
+
+</manifest>

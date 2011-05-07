@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<manifest>
+	<image>
+		<thumbnail>
+			<url>thumbnails/ring-of-evil.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>220</tlX>
+				<tlY>124</tlY>
+				<brX>968</brX>
+				<brY>252</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/ring-of-evil.jpg</jpeg>
+			<webp>fullsize/WebP/ring-of-evil.webp</webp>
+		</fullsize>
+		<image_title>Ring of Evil</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/magical-forest.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>1</tlX>
+				<tlY>213</tlY>
+				<brX>991</brX>
+				<brY>381</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/magical-forest.jpg</jpeg>
+			<webp>fullsize/WebP/magical-forest.webp</webp>
+
+		</fullsize>
+		<image_title>Magical Forest</image_title>
+		<credits></credits>
+	</image>	
+	<image>
+		<thumbnail>
+			<url>thumbnails/deathly-visage.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>215</tlX>
+				<tlY>82</tlY>
+				<brX>968</brX>
+				<brY>210</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/deathly-visage.jpg</jpeg>
+			<webp>fullsize/WebP/deathly-visage.webp</webp>
+		</fullsize>
+		<image_title>Deathly Visage</image_title>
+		<credits></credits>
+	</image>
+	
+	<image>
+		<thumbnail>
+			<url>thumbnails/evanescense.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>190</tlX>
+				<tlY>130</tlY>
+				<brX>912</brX>
+				<brY>253</brY>
+			</subset>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/evanescense.jpg</jpeg>
+			<webp>fullsize/WebP/evanescense.webp</webp>
+		</fullsize>
+		<image_title>Evanescense</image_title>
+		<credits></credits>
+	</image>	
+	<image>
+		<thumbnail>
+			<url>thumbnails/dueling-fates.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>26</tlX>
+				<tlY>27</tlY>
+				<brX>911</brX>
+				<brY>175</brY>
+			</subset>	
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/dueling-fates.jpg</jpeg>
+			<webp>fullsize/WebP/dueling-fates.webp</webp>
+
+		</fullsize>
+		<image_title>Duel of the Fates</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/lantern-waste.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>1</tlX>
+				<tlY>347</tlY>
+				<brX>770</brX>
+				<brY>476</brY>
+			</subset>		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/lantern-waste.jpg</jpeg>
+			<webp>fullsize/WebP/lantern-waste.webp</webp>
+
+		</fullsize>
+		<image_title>Lantern Waste</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/darkness-surrounding.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>24</tlX>
+				<tlY>123</tlY>
+				<brX>808</brX>
+				<brY>254</brY>
+			</subset>		
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/darkness-surrounding.jpg</jpeg>
+			<webp>fullsize/WebP/darkness-surrounding.webp</webp>
+
+		</fullsize>
+		<image_title>Darkness Surrounding</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/frozen-gateway.png</url>
+			<plain_url>plain_thumbnails/Frozen-Gateway.jpg</plain_url>
+		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/frozen-gateway.jpg</jpeg>
+			<webp>fullsize/WebP/frozen-gateway.webp</webp>
+		</fullsize>
+		<image_title>Frozen Gateway</image_title>
+		<credits></credits>
+	</image>
+	<image>
+		<thumbnail>
+			<url>thumbnails/death.png</url>
+			<plain_url>=fullsize</plain_url>
+			<subset>
+				<tlX>1</tlX>
+				<tlY>221</tlY>
+				<brX>999</brX>
+				<brY>390</brY>
+			</subset>		</thumbnail>
+		<fullsize>
+			<jpeg>fullsize/JPEG/death.jpg</jpeg>
+			<webp>fullsize/WebP/death.webp</webp>
+		</fullsize>
+		<image_title>Death</image_title>
+		<credits></credits>
+	</image>	
+</manifest>
